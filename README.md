@@ -8,7 +8,7 @@ In this challenge, you will use Windows Azure Mobile Services to build a connect
 
 You'll to the Windows Azure portal, create a new Mobile Service and SQL database.  Then, you'll download the sample ToDo list app and have some fun storing data in the cloud, configuring Facebook authentication, and sending push notifications.
 
-The walkthrough below should help you with the challenge, but you can also get in touch with [@mlunes90](http://twitter.com/mlunes90) with any questions--he's on site and happy to help!
+The walkthrough below should help you with the challenge, but you can also get in touch with [@mlunes90](http://twitter.com/mlunes90) with any questions--she's on site and happy to help!
 
 ####Bonus Challenge
 For bonus points--add a service from the Windows Azure Store to your app.
