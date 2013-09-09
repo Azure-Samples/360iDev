@@ -8,14 +8,14 @@ In this challenge, you will use Windows Azure Mobile Services to build a connect
 
 You'll to the Windows Azure portal, create a new Mobile Service and SQL database.  Then, you'll download the sample ToDo list app and have some fun storing data in the cloud, configuring Facebook authentication, and sending push notifications.
 
-The walkthrough below should help you with the challenge, but you can also get in touch with @lachlanhardy with any questions--he's on site and happy to help!
+The walkthrough below should help you with the challenge, but you can also get in touch with [@mlunes90](http://twitter.com/mlunes90) with any questions--he's on site and happy to help!
 
 ####Bonus Challenge
 For bonus points--add a service from the Windows Azure Store to your app.
 
 ###Validation…and Prizes!
 
-You can get these challenges validated by Lachlan until the end of the conference or send over a screenshot of your completed app to lachlanh@microsoft.com by EOD on 5/26/2013 to be entered into a drawing for a Jawbone Big Jambox. 
+You can get these challenges validated by Miranda until the end of the conference or send over a screenshot of your completed app to mirluna@microsoft.com by EOD on 9/12/2013 to be entered into a drawing for a Jawbone Big Jambox. 
 
 You'll receive one entry for completing the challenge; two if you also complete the bonus challenge.
 
@@ -23,7 +23,7 @@ You'll receive one entry for completing the challenge; two if you also complete 
 
 ####Data
 
-* Login to your Windows Azure account at manage.windowsazure.com.  (If you don't have a Windows Azure account, you can obtain a free 90-day trial at http://www.windowsazure.com/en-us/pricing/free-trial/.)
+* Login to your Windows Azure account at manage.windowsazure.com.  (If you don't have a Windows Azure account, you can obtain a free 30-day trial at http://www.windowsazure.com/en-us/pricing/free-trial/.)
 
 * Click New --> Compute --> Mobile Service --> Create.  Then specify URL and database login/password order to create a new Mobile Service and the associated SQL database.
 
@@ -278,7 +278,7 @@ function sendEmail(item) {
 
 * iOS Getting Started Content: www.windowsazure.com/iOS
 * Mobile Dev Center: www.windowsazure.com/mobile
-* Collection of helpful blog posts & tutorials: aka.ms/CommonWAMS
+* Collection of helpful blog posts & tutorials: [aka.ms/CommonWAMS](http://aka.ms/CommonWAMS)
 * Forum: http://social.msdn.microsoft.com/Forums/en-US/azuremobile/threads
 * Feature Requests: mobileservices.uservoice.com
 * Feedback: mobileservices (at) microsoft (dot) com
