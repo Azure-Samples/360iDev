@@ -15,7 +15,7 @@ For bonus points--add a service from the Windows Azure Store to your app.
 
 ###Validation…and Prizes!
 
-You can get these challenges validated by Miranda until the end of the conference or send over a screenshot of your completed app to mirluna@microsoft.com by EOD on 9/12/2013 to be entered into a drawing for a Jawbone Big Jambox. 
+You can get these challenges validated at the Windows Azure booth by Miranda, Phil, or Chris until the end of the conference or send over a screenshot of your completed app to mirluna@microsoft.com by EOD on 9/12/2013 to be entered into a drawing for a Jawbone Big Jambox. 
 
 You'll receive one entry for completing the challenge; two if you also complete the bonus challenge.
 
